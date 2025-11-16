@@ -6,7 +6,7 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
-(self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/layout"],{
+self["webpackHotUpdate_N_E"]("app/layout",{
 
 /***/ "(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Cvjaka%5CDesktop%5C1%20CFGS%20Asistencia%20a%20a%20la%20direccion%5CGTJ%5CTema%202%5Cestudio%5Capp%5Ccomponents%5CHeader.js&modules=C%3A%5CUsers%5Cvjaka%5CDesktop%5C1%20CFGS%20Asistencia%20a%20a%20la%20direccion%5CGTJ%5CTema%202%5Cestudio%5Cstyle%5Cglobals.css&server=false!":
 /*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
@@ -15,17 +15,6 @@
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
 eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/Header.js */ \"(app-pages-browser)/./app/components/Header.js\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./style/globals.css */ \"(app-pages-browser)/./style/globals.css\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvYnVpbGQvd2VicGFjay9sb2FkZXJzL25leHQtZmxpZ2h0LWNsaWVudC1lbnRyeS1sb2FkZXIuanM/bW9kdWxlcz1DJTNBJTVDVXNlcnMlNUN2amFrYSU1Q0Rlc2t0b3AlNUMxJTIwQ0ZHUyUyMEFzaXN0ZW5jaWElMjBhJTIwYSUyMGxhJTIwZGlyZWNjaW9uJTVDR1RKJTVDVGVtYSUyMDIlNUNlc3R1ZGlvJTVDYXBwJTVDY29tcG9uZW50cyU1Q0hlYWRlci5qcyZtb2R1bGVzPUMlM0ElNUNVc2VycyU1Q3ZqYWthJTVDRGVza3RvcCU1QzElMjBDRkdTJTIwQXNpc3RlbmNpYSUyMGElMjBhJTIwbGElMjBkaXJlY2Npb24lNUNHVEolNUNUZW1hJTIwMiU1Q2VzdHVkaW8lNUNzdHlsZSU1Q2dsb2JhbHMuY3NzJnNlcnZlcj1mYWxzZSEiLCJtYXBwaW5ncyI6IkFBQUEsOEtBQW9KO0FBQ3BKIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vX05fRS8/NjY4MSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIkM6XFxcXFVzZXJzXFxcXHZqYWthXFxcXERlc2t0b3BcXFxcMSBDRkdTIEFzaXN0ZW5jaWEgYSBhIGxhIGRpcmVjY2lvblxcXFxHVEpcXFxcVGVtYSAyXFxcXGVzdHVkaW9cXFxcYXBwXFxcXGNvbXBvbmVudHNcXFxcSGVhZGVyLmpzXCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJDOlxcXFxVc2Vyc1xcXFx2amFrYVxcXFxEZXNrdG9wXFxcXDEgQ0ZHUyBBc2lzdGVuY2lhIGEgYSBsYSBkaXJlY2Npb25cXFxcR1RKXFxcXFRlbWEgMlxcXFxlc3R1ZGlvXFxcXHN0eWxlXFxcXGdsb2JhbHMuY3NzXCIpIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Cvjaka%5CDesktop%5C1%20CFGS%20Asistencia%20a%20a%20la%20direccion%5CGTJ%5CTema%202%5Cestudio%5Capp%5Ccomponents%5CHeader.js&modules=C%3A%5CUsers%5Cvjaka%5CDesktop%5C1%20CFGS%20Asistencia%20a%20a%20la%20direccion%5CGTJ%5CTema%202%5Cestudio%5Cstyle%5Cglobals.css&server=false!\n"));
-
-/***/ }),
-
-/***/ "(app-pages-browser)/./style/globals.css":
-/*!***************************!*\
-  !*** ./style/globals.css ***!
-  \***************************/
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"292268466ad4\");\nif (true) { module.hot.accept() }\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL3N0eWxlL2dsb2JhbHMuY3NzIiwibWFwcGluZ3MiOiI7QUFBQSwrREFBZSxjQUFjO0FBQzdCLElBQUksSUFBVSxJQUFJLGlCQUFpQiIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvLi9zdHlsZS9nbG9iYWxzLmNzcz9iOGEzIl0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IFwiMjkyMjY4NDY2YWQ0XCJcbmlmIChtb2R1bGUuaG90KSB7IG1vZHVsZS5ob3QuYWNjZXB0KCkgfVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(app-pages-browser)/./style/globals.css\n"));
 
 /***/ }),
 
@@ -281,11 +270,4 @@ eval(__webpack_require__.ts("module.exports = __webpack_require__(/*! ./dist/cli
 
 /***/ })
 
-},
-/******/ function(__webpack_require__) { // webpackRuntimeModules
-/******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("(app-pages-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Cvjaka%5CDesktop%5C1%20CFGS%20Asistencia%20a%20a%20la%20direccion%5CGTJ%5CTema%202%5Cestudio%5Capp%5Ccomponents%5CHeader.js&modules=C%3A%5CUsers%5Cvjaka%5CDesktop%5C1%20CFGS%20Asistencia%20a%20a%20la%20direccion%5CGTJ%5CTema%202%5Cestudio%5Cstyle%5Cglobals.css&server=false!"); });
-/******/ var __webpack_exports__ = __webpack_require__.O();
-/******/ _N_E = __webpack_exports__;
-/******/ }
-]);
+});
