@@ -26,6 +26,9 @@ export default function RootLayout({ children }) {
               <Link href="/desarrollo_test" className="nav-link">
                 Test de Desarrollo
               </Link>
+              <Link href="desarrollo_test_respuestas" className="nav-link">
+                Test de Desarrollo Respuestas
+              </Link>
             </div>
           </div>
         </nav>

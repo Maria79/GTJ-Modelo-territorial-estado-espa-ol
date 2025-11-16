@@ -2,8 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",  // Define la raíz del proyecto
     "paths": {
-      "@/*": ["src/*"],  // Alias que apunta a la carpeta 'src' en la raíz del proyecto
-      "@../../*": ["../../*"]  // Alias que apunta a un directorio dos niveles arriba de la raíz
+     "@/*": ["./*"]
     }
   },
   "exclude": ["node_modules"]

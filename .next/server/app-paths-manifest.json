@@ -1,3 +1,4 @@
 {
-  "/tests/page": "app/tests/page.js"
+  "/tests/page": "app/tests/page.js",
+  "/desarrollo_test_respuestas/page": "app/desarrollo_test_respuestas/page.js"
 }

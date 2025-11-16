@@ -10,6 +10,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/tests/page.js"
+    ],
+    "/desarrollo_test_respuestas/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/desarrollo_test_respuestas/page.js"
     ]
   }
 }
